@@ -1,6 +1,6 @@
 # CUDA Learning Progression
 
-Progressive CUDA implementations showing CPU→GPU→threaded→blocked parallelization.
+Progressive CUDA implementations showing CPU to GPU parallelization.
 
 ## What it does
 
