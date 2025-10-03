@@ -1,6 +1,6 @@
 # CUDA Learning Progression
 
-Progressive CUDA implementations showing CPU to GPU parallelization.
+Progressive implementations of GPU parallelization for large-scale vector math.
 
 ## What it does
 
